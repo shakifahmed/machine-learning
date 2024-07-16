@@ -4,7 +4,7 @@ This repository contains various machine learning concepts. Each section is orga
 
 ## Table of Contents
 
-1. [Exploratory Data Analysis](#./1.exploratory-data%20-analysis)
+1. [Exploratory Data Analysis](#./blob/main/1.exploratory-data%20-analysis/)
    - [Univariate Analysis](./1.exploratory-data%20-analysis/univariate.ipynb)
    - [Bivariate and Multivariate Analysis](./1.exploratory-data%20-analysis/bivariate-multivariate.ipynb)
    - [Pandas Profiler](./1.exploratory-data%20-analysis/pandas-profiler.ipynb)
